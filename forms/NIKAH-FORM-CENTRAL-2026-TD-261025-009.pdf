@@ -1,0 +1,1405 @@
+%PDF-1.3
+%¿÷¢ş
+1 0 obj
+<< /AcroForm 3 0 R /Names 4 0 R /PageLayout /OneColumn /PageMode /UseNone /Pages 5 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Author (Nazarat Islah-o-Irshad Rishta Nata, Rabwah) /CreationDate (D:20261118093717+01'00') /Creator (anonymous) /Keywords () /ModDate (D:20261118093717+01'00') /Producer (ReportLab PDF Library - \(opensource\)) /Subject (unspecified) /Title (Nikah \(Marriage\) Form) /Trapped /False >>
+endobj
+3 0 obj
+<< /CO [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R ] /DA (/HeBo 0 Tf 0 g) /DR << /Font << /HeBo 18 0 R /Helv 19 0 R /ZaDb 20 0 R >> >> /Fields [ 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 6 0 R 7 0 R 8 0 R 9 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 10 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 11 0 R 12 0 R 13 0 R 14 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 15 0 R 16 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R 139 0 R 17 0 R 140 0 R ] /NeedAppearances false /Q 0 >>
+endobj
+4 0 obj
+<< /JavaScript << /Names [ (NikahFormLogic) 141 0 R ] >> >>
+endobj
+5 0 obj
+<< /Count 5 /Kids [ 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R ] /Type /Pages >>
+endobj
+6 0 obj
+<< /AA << /C << /JS (var g = this.getField\("wakeelb_name"\), s = this.getField\("waliyy_name"\); event.value = \(g && g.valueAsString != "" && s\) ? s.valueAsString : "";) /S /JavaScript >> >> /AP << /N 147 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 246.66 162.99 545 175.19 ] /Subtype /Widget /T (s2_of_waliyy_name) /TU (Fills itself once the Wakeel's name is entered above) /Type /Annot >>
+endobj
+7 0 obj
+<< /AA << /C << /JS (var g = this.getField\("wakeelb_name"\), s = this.getField\("waliyy_father"\); event.value = \(g && g.valueAsString != "" && s\) ? s.valueAsString : "";) /S /JavaScript >> >> /AP << /N 148 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 74.6 149.59 421.54 161.79 ] /Subtype /Widget /T (s2_of_waliyy_father) /TU (Fills itself once the Wakeel's name is entered above) /Type /Annot >>
+endobj
+8 0 obj
+<< /AA << /C << /JS (var g = this.getField\("wakeelb_name"\), s = this.getField\("bride_name"\); event.value = \(g && g.valueAsString != "" && s\) ? s.valueAsString : "";) /S /JavaScript >> >> /AP << /N 149 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 78.33 136.19 290 148.39 ] /Subtype /Widget /T (s2_of_bride_name) /TU (Fills itself once the Wakeel's name is entered above) /Type /Annot >>
+endobj
+9 0 obj
+<< /AA << /C << /JS (var g = this.getField\("wakeelb_name"\), s = this.getField\("bride_father"\); event.value = \(g && g.valueAsString != "" && s\) ? s.valueAsString : "";) /S /JavaScript >> >> /AP << /N 150 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 334.73 136.19 545 148.39 ] /Subtype /Widget /T (s2_of_bride_father) /TU (Fills itself once the Wakeel's name is entered above) /Type /Annot >>
+endobj
+10 0 obj
+<< /AA << /C << /JS (var g = this.getField\("wakeelg_name"\), s = this.getField\("bride_name"\); event.value = \(g && g.valueAsString != "" && s\) ? s.valueAsString : "";) /S /JavaScript >> >> /AP << /N 151 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 122.61 458.69 330 470.89 ] /Subtype /Widget /T (s7_bride_name) /TU (Fills itself once the Wakeel's name is entered above) /Type /Annot >>
+endobj
+11 0 obj
+<< /AA << /C << /JS (var g = this.getField\("wakeelg_name"\), s = this.getField\("groom_name"\); event.value = \(g && g.valueAsString != "" && s\) ? s.valueAsString : "";) /S /JavaScript >> >> /AP << /N 152 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 306.09 269.09 545 281.29 ] /Subtype /Widget /T (s7_of_groom_name) /TU (Fills itself once the Wakeel's name is entered above) /Type /Annot >>
+endobj
+12 0 obj
+<< /AA << /C << /JS (var g = this.getField\("wakeelg_name"\), s = this.getField\("groom_father"\); event.value = \(g && g.valueAsString != "" && s\) ? s.valueAsString : "";) /S /JavaScript >> >> /AP << /N 153 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 74.6 255.69 407.13 267.89 ] /Subtype /Widget /T (s7_of_groom_father) /TU (Fills itself once the Wakeel's name is entered above) /Type /Annot >>
+endobj
+13 0 obj
+<< /AA << /C << /JS (var g = this.getField\("wakeelg_name"\), s = this.getField\("bride_name"\); event.value = \(g && g.valueAsString != "" && s\) ? s.valueAsString : "";) /S /JavaScript >> >> /AP << /N 149 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 78.33 242.29 290 254.49 ] /Subtype /Widget /T (s7_of_bride_name) /TU (Fills itself once the Wakeel's name is entered above) /Type /Annot >>
+endobj
+14 0 obj
+<< /AA << /C << /JS (var g = this.getField\("wakeelg_name"\), s = this.getField\("bride_father"\); event.value = \(g && g.valueAsString != "" && s\) ? s.valueAsString : "";) /S /JavaScript >> >> /AP << /N 150 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 334.73 242.29 545 254.49 ] /Subtype /Widget /T (s7_of_bride_father) /TU (Fills itself once the Wakeel's name is entered above) /Type /Annot >>
+endobj
+15 0 obj
+<< /AA << /C << /JS (var a = this.getField\("bride_address"\), b = this.getField\("bride_address2"\); var x = a ? a.valueAsString : "", y = b ? b.valueAsString : ""; event.value = \(x && y\) ? \(x + " " + y\) : \(x || y\);) /S /JavaScript >> >> /AP << /N 154 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 125.34 626.89 520 639.09 ] /Subtype /Widget /T (cert_bride_address) /TU (Bride's address \(fills itself\)) /Type /Annot >>
+endobj
+16 0 obj
+<< /AA << /C << /JS (var a = this.getField\("groom_address"\), b = this.getField\("groom_address2"\); var x = a ? a.valueAsString : "", y = b ? b.valueAsString : ""; event.value = \(x && y\) ? \(x + " " + y\) : \(x || y\);) /S /JavaScript >> >> /AP << /N 154 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194305 /MK << >> /Q 0 /Rect [ 125.34 566.89 520 579.09 ] /Subtype /Widget /T (cert_groom_address) /TU (Bridegroom's address \(fills itself\)) /Type /Annot >>
+endobj
+17 0 obj
+<< /AA << /C << /JS (syncForm\(false\);) /S /JavaScript >> >> /DA (/Helv 6 Tf 0 g) /F 2 /FT /Tx /Ff 1 /Rect [ 2 2 4 4 ] /Subtype /Widget /T (zz_sync) /Type /Annot >>
+endobj
+18 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+19 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+20 0 obj
+<< /BaseFont /ZapfDingbats /Subtype /Type1 /Type /Font >>
+endobj
+21 0 obj
+<< /AP << /N 155 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 414.03 682.89 545 695.09 ] /Subtype /Widget /T (reg_no) /TU (Registration number) /Type /Annot >>
+endobj
+22 0 obj
+<< /AP << /N 156 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 362.91 664.89 545 677.09 ] /Subtype /Widget /T (form_date) /TU (Date of the form) /Type /Annot >>
+endobj
+23 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 157 0 R 158 0 R 159 0 R 160 0 R ] /Q 0 /T (bride_name) /TU (Full name of the bride) >>
+endobj
+24 0 obj
+<< /AP << /N 161 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 390.99 624.89 545 637.09 ] /Subtype /Widget /T (bride_dob) /TU (Bride's date of birth) /Type /Annot >>
+endobj
+25 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 162 0 R 163 0 R 164 0 R 165 0 R ] /Q 0 /T (bride_father) /TU (Bride's father's name) >>
+endobj
+26 0 obj
+<< /AP << /N 166 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 93.8 598.09 545 610.29 ] /Subtype /Widget /T (bride_address) /TU (Bride's address) /Type /Annot >>
+endobj
+27 0 obj
+<< /AP << /N 167 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 112 584.69 545 596.89 ] /Subtype /Widget /T (bride_address2) /TU (Bride's address \(continued\)) /Type /Annot >>
+endobj
+28 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R ] /Q 0 /T (groom_name) /TU (Full name of the bridegroom) >>
+endobj
+29 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 173 0 R 174 0 R ] /Q 0 /T (groom_dob) /TU (Bridegroom's date of birth) >>
+endobj
+30 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R ] /Q 0 /T (groom_father) /TU (Bridegroom's father's name) >>
+endobj
+31 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 180 0 R 181 0 R ] /Q 0 /T (groom_address) /TU (Bridegroom's address) >>
+endobj
+32 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 182 0 R 183 0 R ] /Q 0 /T (groom_address2) /TU (Bridegroom's address \(continued\)) >>
+endobj
+33 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 184 0 R 185 0 R 186 0 R ] /Q 0 /T (mahr_amount) /TU (Mahr \(dower money\) in figures) >>
+endobj
+34 0 obj
+<< /AP << /N 187 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 339.47 513.69 545 525.89 ] /Subtype /Widget /T (mahr_words) /TU (Mahr \(dower money\) in words) /Type /Annot >>
+endobj
+35 0 obj
+<< /DA (/ZaDb 0 Tf 0 g) /FT /Btn /Ff 33587200 /Kids [ 188 0 R 189 0 R 190 0 R ] /T (bride_status) /TU (Bride is unmarried) /V /Off >>
+endobj
+36 0 obj
+<< /AP << /N 191 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 326.12 479.49 400.12 491.69 ] /Subtype /Widget /T (waliyy_relation) /TU (Relationship of the Waliyy to the bride) /Type /Annot >>
+endobj
+37 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 192 0 R 193 0 R 194 0 R ] /Q 0 /T (mahr_received) /TU (Amount of Mahr already received) >>
+endobj
+38 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 195 0 R 196 0 R ] /Q 0 /T (mahr_details) /TU (Details of the Mahr received \(cash / jewellery\)) >>
+endobj
+39 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 197 0 R 198 0 R ] /Q 0 /T (waliyy_name) /TU (Name of the Waliyy \(guardian\) of the bride) >>
+endobj
+40 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 199 0 R 200 0 R ] /Q 0 /T (waliyy_father) /TU (Waliyy's father's name) >>
+endobj
+41 0 obj
+<< /AP << /N 166 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 93.8 429.79 545 441.99 ] /Subtype /Widget /T (waliyy_address) /TU (Waliyy's address) /Type /Annot >>
+endobj
+42 0 obj
+<< /AP << /N 167 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 112 416.39 545 428.59 ] /Subtype /Widget /T (waliyy_address2) /TU (Waliyy's address \(continued\)) /Type /Annot >>
+endobj
+43 0 obj
+<< /AP << /N 201 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 340.39 400.99 420 413.19 ] /Subtype /Widget /T (waliyy_sign_date) /TU (Date) /Type /Annot >>
+endobj
+44 0 obj
+<< /AP << /N 202 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 82.59 352.59 290 364.79 ] /Subtype /Widget /T (wakeelb_name) /TU (Name of the Wakeel appointed by the Waliyy) /Type /Annot >>
+endobj
+45 0 obj
+<< /AP << /N 203 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 332.6 352.59 545 364.79 ] /Subtype /Widget /T (wakeelb_father) /TU (Wakeel's father's name) /Type /Annot >>
+endobj
+46 0 obj
+<< /AP << /N 204 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 91.13 339.19 545 351.39 ] /Subtype /Widget /T (wakeelb_addr) /TU (Wakeel's address) /Type /Annot >>
+endobj
+47 0 obj
+<< /AP << /N 167 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 112 325.79 545 337.99 ] /Subtype /Widget /T (wakeelb_addr2) /TU (Wakeel's address \(continued\)) /Type /Annot >>
+endobj
+48 0 obj
+<< /AP << /N 205 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 351.86 310.39 450 322.59 ] /Subtype /Widget /T (wakeelb_waliyy_date) /TU (Date) /Type /Annot >>
+endobj
+49 0 obj
+<< /AP << /N 205 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 351.86 296.99 450 309.19 ] /Subtype /Widget /T (wakeelb_bride_date) /TU (Date) /Type /Annot >>
+endobj
+50 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 270.19 290 282.39 ] /Subtype /Widget /T (s2_w1_name) /TU (Witness I name) /Type /Annot >>
+endobj
+51 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 270.19 545 282.39 ] /Subtype /Widget /T (s2_w1_father) /TU (Witness I father's name) /Type /Annot >>
+endobj
+52 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 256.79 545 268.99 ] /Subtype /Widget /T (s2_w1_addr) /TU (Witness I address) /Type /Annot >>
+endobj
+53 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 243.39 545 255.59 ] /Subtype /Widget /T (s2_w1_addr2) /TU (Witness I address \(continued\)) /Type /Annot >>
+endobj
+54 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 229.99 460 242.19 ] /Subtype /Widget /T (s2_w1_date) /TU (Date) /Type /Annot >>
+endobj
+55 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 216.59 290 228.79 ] /Subtype /Widget /T (s2_w2_name) /TU (Witness II name) /Type /Annot >>
+endobj
+56 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 216.59 545 228.79 ] /Subtype /Widget /T (s2_w2_father) /TU (Witness II father's name) /Type /Annot >>
+endobj
+57 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 203.19 545 215.39 ] /Subtype /Widget /T (s2_w2_addr) /TU (Witness II address) /Type /Annot >>
+endobj
+58 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 189.79 545 201.99 ] /Subtype /Widget /T (s2_w2_addr2) /TU (Witness II address \(continued\)) /Type /Annot >>
+endobj
+59 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 176.39 460 188.59 ] /Subtype /Widget /T (s2_w2_date) /TU (Date) /Type /Annot >>
+endobj
+60 0 obj
+<< /AP << /N 211 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 344.26 122.79 450 134.99 ] /Subtype /Widget /T (wakeelb_sign_date) /TU (Date) /Type /Annot >>
+endobj
+61 0 obj
+<< /AP << /N 212 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 340.39 706.59 430 718.79 ] /Subtype /Widget /T (bride_sign_date) /TU (Date of the bride's signature) /Type /Annot >>
+endobj
+62 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 669.19 290 681.39 ] /Subtype /Widget /T (s3_w1_name) /TU (Witness I name) /Type /Annot >>
+endobj
+63 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 669.19 545 681.39 ] /Subtype /Widget /T (s3_w1_father) /TU (Witness I father's name) /Type /Annot >>
+endobj
+64 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 655.79 545 667.99 ] /Subtype /Widget /T (s3_w1_addr) /TU (Witness I address) /Type /Annot >>
+endobj
+65 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 642.39 545 654.59 ] /Subtype /Widget /T (s3_w1_addr2) /TU (Witness I address \(continued\)) /Type /Annot >>
+endobj
+66 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 628.99 460 641.19 ] /Subtype /Widget /T (s3_w1_date) /TU (Date) /Type /Annot >>
+endobj
+67 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 615.59 290 627.79 ] /Subtype /Widget /T (s3_w2_name) /TU (Witness II name) /Type /Annot >>
+endobj
+68 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 615.59 545 627.79 ] /Subtype /Widget /T (s3_w2_father) /TU (Witness II father's name) /Type /Annot >>
+endobj
+69 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 602.19 545 614.39 ] /Subtype /Widget /T (s3_w2_addr) /TU (Witness II address) /Type /Annot >>
+endobj
+70 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 588.79 545 600.99 ] /Subtype /Widget /T (s3_w2_addr2) /TU (Witness II address \(continued\)) /Type /Annot >>
+endobj
+71 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 575.39 460 587.59 ] /Subtype /Widget /T (s3_w2_date) /TU (Date) /Type /Annot >>
+endobj
+72 0 obj
+<< /DA (/ZaDb 0 Tf 0 g) /FT /Btn /Ff 33587200 /Kids [ 213 0 R 214 0 R ] /T (bride_ahmadi) /TU (Bride is a born Ahmadi) /V /Off >>
+endobj
+73 0 obj
+<< /AP << /N 215 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 342.54 534.59 438.54 546.79 ] /Subtype /Widget /T (bride_ahmadi_years) /TU (Years the bride has been an Ahmadi) /Type /Annot >>
+endobj
+74 0 obj
+<< /AP << /N 216 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 60 419.99 204 432.19 ] /Subtype /Widget /T (bride_pres_date) /TU (Date) /Type /Annot >>
+endobj
+75 0 obj
+<< /AP << /N 216 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 368 419.99 512 432.19 ] /Subtype /Widget /T (bride_ameer_date) /TU (Date) /Type /Annot >>
+endobj
+76 0 obj
+<< /DA (/ZaDb 0 Tf 0 g) /FT /Btn /Ff 33587200 /Kids [ 217 0 R ] /T (mahr_paid) /TU (Nothing has been paid yet) /V /Off >>
+endobj
+77 0 obj
+<< /DA (/ZaDb 0 Tf 0 g) /FT /Btn /Ff 33587200 /Kids [ 218 0 R 219 0 R ] /T (groom_marriage_no) /TU (First Nikah of the bridegroom) /V /Off >>
+endobj
+78 0 obj
+<< /DA (/HeBo 0 Tf 0 g) /FT /Tx /Ff 4194304 /Kids [ 220 0 R 221 0 R ] /Q 0 /T (groom_nikah_ordinal) /TU (Which Nikah is this \(second, third ...\)) >>
+endobj
+79 0 obj
+<< /DA (/ZaDb 0 Tf 0 g) /FT /Btn /Ff 33587200 /Kids [ 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R ] /T (groom_firstwife) /TU (The first / former wife is present) /V /Off >>
+endobj
+80 0 obj
+<< /AP << /N 212 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 205.49 440 217.69 ] /Subtype /Widget /T (groom_sign_date) /TU (Date of the bridegroom's signature) /Type /Annot >>
+endobj
+81 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 755.49 290 767.69 ] /Subtype /Widget /T (s5_w1_name) /TU (Witness I name) /Type /Annot >>
+endobj
+82 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 755.49 545 767.69 ] /Subtype /Widget /T (s5_w1_father) /TU (Witness I father's name) /Type /Annot >>
+endobj
+83 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 742.09 545 754.29 ] /Subtype /Widget /T (s5_w1_addr) /TU (Witness I address) /Type /Annot >>
+endobj
+84 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 728.69 545 740.89 ] /Subtype /Widget /T (s5_w1_addr2) /TU (Witness I address \(continued\)) /Type /Annot >>
+endobj
+85 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 715.29 460 727.49 ] /Subtype /Widget /T (s5_w1_date) /TU (Date) /Type /Annot >>
+endobj
+86 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 701.89 290 714.09 ] /Subtype /Widget /T (s5_w2_name) /TU (Witness II name) /Type /Annot >>
+endobj
+87 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 701.89 545 714.09 ] /Subtype /Widget /T (s5_w2_father) /TU (Witness II father's name) /Type /Annot >>
+endobj
+88 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 688.49 545 700.69 ] /Subtype /Widget /T (s5_w2_addr) /TU (Witness II address) /Type /Annot >>
+endobj
+89 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 675.09 545 687.29 ] /Subtype /Widget /T (s5_w2_addr2) /TU (Witness II address \(continued\)) /Type /Annot >>
+endobj
+90 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 661.69 460 673.89 ] /Subtype /Widget /T (s5_w2_date) /TU (Date) /Type /Annot >>
+endobj
+91 0 obj
+<< /DA (/ZaDb 0 Tf 0 g) /FT /Btn /Ff 33587200 /Kids [ 228 0 R 229 0 R ] /T (groom_ahmadi) /TU (Bridegroom is a born Ahmadi) /V /Off >>
+endobj
+92 0 obj
+<< /AP << /N 230 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 337.88 617.89 429.88 630.09 ] /Subtype /Widget /T (groom_ahmadi_years) /TU (Years the bridegroom has been an Ahmadi) /Type /Annot >>
+endobj
+93 0 obj
+<< /AP << /N 216 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 60 513.69 204 525.89 ] /Subtype /Widget /T (groom_pres_date) /TU (Date) /Type /Annot >>
+endobj
+94 0 obj
+<< /AP << /N 216 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 368 513.69 512 525.89 ] /Subtype /Widget /T (groom_ameer_date) /TU (Date) /Type /Annot >>
+endobj
+95 0 obj
+<< /AP << /N 231 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 123.12 445.29 290 457.49 ] /Subtype /Widget /T (wakeelg_name) /TU (Name of the Wakeel appointed by the bridegroom) /Type /Annot >>
+endobj
+96 0 obj
+<< /AP << /N 203 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 332.6 445.29 545 457.49 ] /Subtype /Widget /T (wakeelg_father) /TU (Wakeel's father's name) /Type /Annot >>
+endobj
+97 0 obj
+<< /AP << /N 204 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 91.13 431.89 545 444.09 ] /Subtype /Widget /T (wakeelg_addr) /TU (Wakeel's address) /Type /Annot >>
+endobj
+98 0 obj
+<< /AP << /N 167 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 112 418.49 545 430.69 ] /Subtype /Widget /T (wakeelg_addr2) /TU (Wakeel's address \(continued\)) /Type /Annot >>
+endobj
+99 0 obj
+<< /AP << /N 205 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 351.86 403.09 450 415.29 ] /Subtype /Widget /T (wakeelg_groom_date) /TU (Date) /Type /Annot >>
+endobj
+100 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 376.29 290 388.49 ] /Subtype /Widget /T (s7_w1_name) /TU (Witness I name) /Type /Annot >>
+endobj
+101 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 376.29 545 388.49 ] /Subtype /Widget /T (s7_w1_father) /TU (Witness I father's name) /Type /Annot >>
+endobj
+102 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 362.89 545 375.09 ] /Subtype /Widget /T (s7_w1_addr) /TU (Witness I address) /Type /Annot >>
+endobj
+103 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 349.49 545 361.69 ] /Subtype /Widget /T (s7_w1_addr2) /TU (Witness I address \(continued\)) /Type /Annot >>
+endobj
+104 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 336.09 460 348.29 ] /Subtype /Widget /T (s7_w1_date) /TU (Date) /Type /Annot >>
+endobj
+105 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 322.69 290 334.89 ] /Subtype /Widget /T (s7_w2_name) /TU (Witness II name) /Type /Annot >>
+endobj
+106 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 322.69 545 334.89 ] /Subtype /Widget /T (s7_w2_father) /TU (Witness II father's name) /Type /Annot >>
+endobj
+107 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 309.29 545 321.49 ] /Subtype /Widget /T (s7_w2_addr) /TU (Witness II address) /Type /Annot >>
+endobj
+108 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 295.89 545 308.09 ] /Subtype /Widget /T (s7_w2_addr2) /TU (Witness II address \(continued\)) /Type /Annot >>
+endobj
+109 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 282.49 460 294.69 ] /Subtype /Widget /T (s7_w2_date) /TU (Date) /Type /Annot >>
+endobj
+110 0 obj
+<< /AP << /N 205 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 351.86 228.89 450 241.09 ] /Subtype /Widget /T (wakeelg_sign_date) /TU (Date) /Type /Annot >>
+endobj
+111 0 obj
+<< /AP << /N 232 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 390.26 689.89 500 702.09 ] /Subtype /Widget /T (office_date) /TU (Date) /Type /Annot >>
+endobj
+112 0 obj
+<< /AP << /N 233 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 230 603.89 500 616.09 ] /Subtype /Widget /T (nikah_place) /TU (Place of the Nikah ceremony) /Type /Annot >>
+endobj
+113 0 obj
+<< /AP << /N 233 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 230 588.49 500 600.69 ] /Subtype /Widget /T (nikah_date) /TU (Date of the Nikah ceremony) /Type /Annot >>
+endobj
+114 0 obj
+<< /AP << /N 234 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 202.09 573.09 545 585.29 ] /Subtype /Widget /T (performer_name) /TU (Name of the person performing the Nikah) /Type /Annot >>
+endobj
+115 0 obj
+<< /AP << /N 235 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 75.67 559.69 545 571.89 ] /Subtype /Widget /T (performer_father) /TU (Father's name) /Type /Annot >>
+endobj
+116 0 obj
+<< /AP << /N 166 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 93.8 546.29 545 558.49 ] /Subtype /Widget /T (performer_address) /TU (Address) /Type /Annot >>
+endobj
+117 0 obj
+<< /AP << /N 167 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 112 532.89 545 545.09 ] /Subtype /Widget /T (performer_address2) /TU (Address \(continued\)) /Type /Annot >>
+endobj
+118 0 obj
+<< /AP << /N 212 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 488.09 440 500.29 ] /Subtype /Widget /T (performer_date) /TU (Date) /Type /Annot >>
+endobj
+119 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 461.29 290 473.49 ] /Subtype /Widget /T (s9_w1_name) /TU (Ceremony witness I name) /Type /Annot >>
+endobj
+120 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 461.29 545 473.49 ] /Subtype /Widget /T (s9_w1_father) /TU (Ceremony witness I father's name) /Type /Annot >>
+endobj
+121 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 447.89 545 460.09 ] /Subtype /Widget /T (s9_w1_addr) /TU (Ceremony witness I address) /Type /Annot >>
+endobj
+122 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 434.49 545 446.69 ] /Subtype /Widget /T (s9_w1_addr2) /TU (Ceremony witness I address \(continued\)) /Type /Annot >>
+endobj
+123 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 421.09 460 433.29 ] /Subtype /Widget /T (s9_w1_date) /TU (Date) /Type /Annot >>
+endobj
+124 0 obj
+<< /AP << /N 206 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 106.19 407.69 290 419.89 ] /Subtype /Widget /T (s9_w2_name) /TU (Ceremony witness II name) /Type /Annot >>
+endobj
+125 0 obj
+<< /AP << /N 207 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 333.67 407.69 545 419.89 ] /Subtype /Widget /T (s9_w2_father) /TU (Ceremony witness II father's name) /Type /Annot >>
+endobj
+126 0 obj
+<< /AP << /N 208 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 115.8 394.29 545 406.49 ] /Subtype /Widget /T (s9_w2_addr) /TU (Ceremony witness II address) /Type /Annot >>
+endobj
+127 0 obj
+<< /AP << /N 209 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 132 380.89 545 393.09 ] /Subtype /Widget /T (s9_w2_addr2) /TU (Ceremony witness II address \(continued\)) /Type /Annot >>
+endobj
+128 0 obj
+<< /AP << /N 210 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 350.39 367.49 460 379.69 ] /Subtype /Widget /T (s9_w2_date) /TU (Date) /Type /Annot >>
+endobj
+129 0 obj
+<< /AP << /N 236 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 143.12 688.89 300 701.09 ] /Subtype /Widget /T (jamaat_name) /TU (Name of the Jama'at) /Type /Annot >>
+endobj
+130 0 obj
+<< /AP << /N 237 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 341.01 688.89 520 701.09 ] /Subtype /Widget /T (jamaat_distt) /TU (District) /Type /Annot >>
+endobj
+131 0 obj
+<< /AP << /N 238 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 190.4 463.89 545 476.09 ] /Subtype /Widget /T (counsel_medium) /TU (Medium of counselling \(in person, video call ...\)) /Type /Annot >>
+endobj
+132 0 obj
+<< /AP << /N 239 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 309.06 443.89 545 456.09 ] /Subtype /Widget /T (counsel_bride_with) /TU (Who accompanied the bride) /Type /Annot >>
+endobj
+133 0 obj
+<< /AP << /N 240 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 338.66 425.89 545 438.09 ] /Subtype /Widget /T (counsel_groom_with) /TU (Who accompanied the bridegroom) /Type /Annot >>
+endobj
+134 0 obj
+<< /AP << /N 241 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 380.13 403.89 500 416.09 ] /Subtype /Widget /T (counsel_bride_date) /TU (Date) /Type /Annot >>
+endobj
+135 0 obj
+<< /AP << /N 241 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 380.13 383.89 500 396.09 ] /Subtype /Widget /T (counsel_groom_date) /TU (Date) /Type /Annot >>
+endobj
+136 0 obj
+<< /AP << /N 242 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 177.14 363.89 500 376.09 ] /Subtype /Widget /T (counsellor_name) /TU (Name of the counsellor) /Type /Annot >>
+endobj
+137 0 obj
+<< /AP << /N 243 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 116 343.89 500 356.09 ] /Subtype /Widget /T (counsellor_address) /TU (Counsellor's address) /Type /Annot >>
+endobj
+138 0 obj
+<< /AP << /N 241 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 380.13 323.89 500 336.09 ] /Subtype /Widget /T (counsellor_date) /TU (Date) /Type /Annot >>
+endobj
+139 0 obj
+<< /AP << /N 244 0 R >> /DA (/HeBo 0 Tf 0 g) /F 4 /FT /Tx /Ff 4194304 /MK << >> /Q 0 /Rect [ 100.13 211.89 300 224.09 ] /Subtype /Widget /T (counsel_verify_date) /TU (Date) /Type /Annot >>
+endobj
+140 0 obj
+<< /A << /JS (if \(app.alert\('Clear every entry on this form?', 2, 1\) == 4\) { this.resetForm\(\); syncForm\(true\); }) /S /JavaScript >> /AP << /N 245 0 R >> /DA (/Helv 8 Tf 0 g) /F 0 /FT /Btn /Ff 65536 /MK << /BC [ 0.55 0.55 0.55 ] /BG [ 0.93 0.93 0.93 ] /CA (Clear the form) >> /Rect [ 40 806 114 820 ] /Subtype /Widget /T (zz_clear) /TU (Erase every entry and start again \(does not print\)) /Type /Annot >>
+endobj
+141 0 obj
+<< /JS (\nvar TINT = ["RGB", 0.937, 0.957, 0.988];\nvar GREY = ["RGB", 0.886, 0.886, 0.886];\nvar NIL_RECEIVED = "Nil \(nothing\)";\nvar NIL_DETAILS = "Nil - nothing has been received so far";\n\nfunction _g\(n\) { try { return this.getField\(n\); } catch \(e\) { return null; } }\nfunction _val\(n\) { var f = _g\(n\); return f ? f.value : "Off"; }\n\nfunction _en\(n, on, clear\) {\n    var f = _g\(n\); if \(!f\) return;\n    f.readonly = !on;\n    f.fillColor = on ? TINT : GREY;\n    if \(!on && clear && f.value != ""\) f.value = "";\n}\nfunction _enb\(n, on, clear\) {\n    var f = _g\(n\); if \(!f\) return;\n    f.readonly = !on;\n    if \(!on && clear && f.value != "Off"\) f.value = "Off";\n}\nfunction _auto\(n, lock, text, clear\) {\n    var f = _g\(n\); if \(!f\) return;\n    f.readonly = lock;\n    f.fillColor = TINT;\n    if \(!clear\) return;\n    if \(lock\) { if \(f.value != text\) f.value = text; }\n    else if \(f.value == text\) f.value = "";\n}\n\nfunction syncForm\(clear\) {\n    _en\("bride_ahmadi_years", _val\("bride_ahmadi"\) == "since", clear\);\n    _en\("groom_ahmadi_years", _val\("groom_ahmadi"\) == "since", clear\);\n    var unpaid = _val\("mahr_paid"\) == "unpaid";\n    _auto\("mahr_received", unpaid, NIL_RECEIVED, clear\);\n    _auto\("mahr_details", unpaid, NIL_DETAILS, clear\);\n    var notFirst = _val\("groom_marriage_no"\) != "first";\n    _enb\("groom_firstwife", notFirst, clear\);\n    _en\("groom_nikah_ordinal", notFirst, clear\);\n}\nsyncForm\(false\);\n) /S /JavaScript >>
+endobj
+142 0 obj
+<< /Annots [ 21 0 R 22 0 R 157 0 R 24 0 R 162 0 R 26 0 R 27 0 R 168 0 R 173 0 R 175 0 R 180 0 R 182 0 R 184 0 R 34 0 R 188 0 R 189 0 R 190 0 R 36 0 R 192 0 R 195 0 R 197 0 R 199 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 6 0 R 7 0 R 8 0 R 9 0 R 60 0 R 17 0 R 140 0 R ] /Contents 246 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 5 0 R /Resources << /Font 247 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Tabs /R /Trans << >> /Type /Page >>
+endobj
+143 0 obj
+<< /Annots [ 158 0 R 159 0 R 163 0 R 164 0 R 169 0 R 170 0 R 174 0 R 176 0 R 177 0 R 181 0 R 183 0 R 185 0 R 186 0 R 193 0 R 194 0 R 196 0 R 198 0 R 200 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 213 0 R 214 0 R 73 0 R 74 0 R 75 0 R 217 0 R 218 0 R 220 0 R 222 0 R 223 0 R 224 0 R 80 0 R ] /Contents 248 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 5 0 R /Resources << /Font 247 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Tabs /R /Trans << >> /Type /Page >>
+endobj
+144 0 obj
+<< /Annots [ 171 0 R 178 0 R 219 0 R 221 0 R 225 0 R 226 0 R 227 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 228 0 R 229 0 R 92 0 R 93 0 R 94 0 R 10 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 11 0 R 12 0 R 13 0 R 14 0 R 110 0 R ] /Contents 249 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 5 0 R /Resources << /Font 247 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Tabs /R /Trans << >> /Type /Page >>
+endobj
+145 0 obj
+<< /Annots [ 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R ] /Contents 250 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 5 0 R /Resources << /Font 247 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Tabs /R /Trans << >> /Type /Page >>
+endobj
+146 0 obj
+<< /Annots [ 160 0 R 165 0 R 172 0 R 179 0 R 129 0 R 130 0 R 15 0 R 16 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R 139 0 R ] /Contents 251 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 5 0 R /Resources << /Font 247 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Tabs /R /Trans << >> /Type /Page >>
+endobj
+147 0 obj
+<< /BBox [ 0 0 298.34 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+148 0 obj
+<< /BBox [ 0 0 346.94 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+149 0 obj
+<< /BBox [ 0 0 211.67 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+150 0 obj
+<< /BBox [ 0 0 210.27 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+151 0 obj
+<< /BBox [ 0 0 207.39 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+152 0 obj
+<< /BBox [ 0 0 238.91 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+153 0 obj
+<< /BBox [ 0 0 332.53 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+154 0 obj
+<< /BBox [ 0 0 394.66 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+155 0 obj
+<< /BBox [ 0 0 130.97 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+156 0 obj
+<< /BBox [ 0 0 182.09 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+157 0 obj
+<< /AP << /N 252 0 R >> /F 4 /MK << >> /Parent 23 0 R /Rect [ 131.11 624.89 316 637.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+158 0 obj
+<< /AP << /N 253 0 R >> /F 4 /MK << >> /Parent 23 0 R /Rect [ 93.53 545.99 290 558.19 ] /Subtype /Widget /Type /Annot >>
+endobj
+159 0 obj
+<< /AP << /N 254 0 R >> /F 4 /MK << >> /Parent 23 0 R /Rect [ 279.11 317.99 545 330.19 ] /Subtype /Widget /Type /Annot >>
+endobj
+160 0 obj
+<< /AP << /N 255 0 R >> /F 4 /MK << >> /Parent 23 0 R /Rect [ 100.89 646.89 300 659.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+161 0 obj
+<< /BBox [ 0 0 154.01 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+162 0 obj
+<< /AP << /N 256 0 R >> /F 4 /MK << >> /Parent 25 0 R /Rect [ 77.27 611.49 545 623.69 ] /Subtype /Widget /Type /Annot >>
+endobj
+163 0 obj
+<< /AP << /N 257 0 R >> /F 4 /MK << >> /Parent 25 0 R /Rect [ 332.07 545.99 545 558.19 ] /Subtype /Widget /Type /Annot >>
+endobj
+164 0 obj
+<< /AP << /N 256 0 R >> /F 4 /MK << >> /Parent 25 0 R /Rect [ 77.27 304.59 545 316.79 ] /Subtype /Widget /Type /Annot >>
+endobj
+165 0 obj
+<< /AP << /N 258 0 R >> /F 4 /MK << >> /Parent 25 0 R /Rect [ 327.56 646.89 520 659.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+166 0 obj
+<< /BBox [ 0 0 451.2 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+167 0 obj
+<< /BBox [ 0 0 433 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+168 0 obj
+<< /AP << /N 259 0 R >> /F 4 /MK << >> /Parent 28 0 R /Rect [ 92.93 569.29 316 581.49 ] /Subtype /Widget /Type /Annot >>
+endobj
+169 0 obj
+<< /AP << /N 260 0 R >> /F 4 /MK << >> /Parent 28 0 R /Rect [ 72.72 744.89 290 757.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+170 0 obj
+<< /AP << /N 261 0 R >> /F 4 /MK << >> /Parent 28 0 R /Rect [ 61.73 373.59 330 385.79 ] /Subtype /Widget /Type /Annot >>
+endobj
+171 0 obj
+<< /AP << /N 262 0 R >> /F 4 /MK << >> /Parent 28 0 R /Rect [ 98.52 629.29 290 641.49 ] /Subtype /Widget /Type /Annot >>
+endobj
+172 0 obj
+<< /AP << /N 263 0 R >> /F 4 /MK << >> /Parent 28 0 R /Rect [ 92.33 586.89 300 599.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+173 0 obj
+<< /AP << /N 161 0 R >> /F 4 /MK << >> /Parent 29 0 R /Rect [ 390.99 569.29 545 581.49 ] /Subtype /Widget /Type /Annot >>
+endobj
+174 0 obj
+<< /AP << /N 161 0 R >> /F 4 /MK << >> /Parent 29 0 R /Rect [ 390.99 373.59 545 385.79 ] /Subtype /Widget /Type /Annot >>
+endobj
+175 0 obj
+<< /AP << /N 235 0 R >> /F 4 /MK << >> /Parent 30 0 R /Rect [ 75.67 555.89 545 568.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+176 0 obj
+<< /AP << /N 207 0 R >> /F 4 /MK << >> /Parent 30 0 R /Rect [ 333.67 744.89 545 757.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+177 0 obj
+<< /AP << /N 235 0 R >> /F 4 /MK << >> /Parent 30 0 R /Rect [ 75.67 360.19 545 372.39 ] /Subtype /Widget /Type /Annot >>
+endobj
+178 0 obj
+<< /AP << /N 207 0 R >> /F 4 /MK << >> /Parent 30 0 R /Rect [ 333.67 629.29 545 641.49 ] /Subtype /Widget /Type /Annot >>
+endobj
+179 0 obj
+<< /AP << /N 264 0 R >> /F 4 /MK << >> /Parent 30 0 R /Rect [ 325.73 586.89 520 599.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+180 0 obj
+<< /AP << /N 166 0 R >> /F 4 /MK << >> /Parent 31 0 R /Rect [ 93.8 542.49 545 554.69 ] /Subtype /Widget /Type /Annot >>
+endobj
+181 0 obj
+<< /AP << /N 166 0 R >> /F 4 /MK << >> /Parent 31 0 R /Rect [ 93.8 346.79 545 358.99 ] /Subtype /Widget /Type /Annot >>
+endobj
+182 0 obj
+<< /AP << /N 167 0 R >> /F 4 /MK << >> /Parent 32 0 R /Rect [ 112 529.09 545 541.29 ] /Subtype /Widget /Type /Annot >>
+endobj
+183 0 obj
+<< /AP << /N 167 0 R >> /F 4 /MK << >> /Parent 32 0 R /Rect [ 112 333.39 545 345.59 ] /Subtype /Widget /Type /Annot >>
+endobj
+184 0 obj
+<< /AP << /N 265 0 R >> /F 4 /MK << >> /Parent 33 0 R /Rect [ 184.25 513.69 300 525.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+185 0 obj
+<< /AP << /N 266 0 R >> /F 4 /MK << >> /Parent 33 0 R /Rect [ 176.94 731.49 304.94 743.69 ] /Subtype /Widget /Type /Annot >>
+endobj
+186 0 obj
+<< /AP << /N 267 0 R >> /F 4 /MK << >> /Parent 33 0 R /Rect [ 117.59 289.19 223.59 301.39 ] /Subtype /Widget /Type /Annot >>
+endobj
+187 0 obj
+<< /BBox [ 0 0 205.53 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+188 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /unmarried 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 35 0 R /Rect [ 95.33 492.69 104.53 501.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+189 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /widowed 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 35 0 R /Rect [ 187.59 492.69 196.79 501.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+190 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /divorced 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 35 0 R /Rect [ 269.92 492.69 279.12 501.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+191 0 obj
+<< /BBox [ 0 0 74 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+192 0 obj
+<< /AP << /N 267 0 R >> /F 4 /MK << >> /Parent 37 0 R /Rect [ 125.61 468.09 231.61 480.29 ] /Subtype /Widget /Type /Annot >>
+endobj
+193 0 obj
+<< /AP << /N 270 0 R >> /F 4 /MK << >> /Parent 37 0 R /Rect [ 439.34 731.49 545 743.69 ] /Subtype /Widget /Type /Annot >>
+endobj
+194 0 obj
+<< /AP << /N 271 0 R >> /F 4 /MK << >> /Parent 37 0 R /Rect [ 388.37 289.19 545 301.39 ] /Subtype /Widget /Type /Annot >>
+endobj
+195 0 obj
+<< /AP << /N 272 0 R >> /F 4 /MK << >> /Parent 38 0 R /Rect [ 87.47 456.59 545 468.79 ] /Subtype /Widget /Type /Annot >>
+endobj
+196 0 obj
+<< /AP << /N 273 0 R >> /F 4 /MK << >> /Parent 38 0 R /Rect [ 229.58 277.69 545 289.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+197 0 obj
+<< /AP << /N 274 0 R >> /F 4 /MK << >> /Parent 39 0 R /Rect [ 126.32 443.19 290 455.39 ] /Subtype /Widget /Type /Annot >>
+endobj
+198 0 obj
+<< /AP << /N 275 0 R >> /F 4 /MK << >> /Parent 39 0 R /Rect [ 130.06 523.19 290 535.39 ] /Subtype /Widget /Type /Annot >>
+endobj
+199 0 obj
+<< /AP << /N 207 0 R >> /F 4 /MK << >> /Parent 40 0 R /Rect [ 333.67 443.19 545 455.39 ] /Subtype /Widget /Type /Annot >>
+endobj
+200 0 obj
+<< /AP << /N 207 0 R >> /F 4 /MK << >> /Parent 40 0 R /Rect [ 333.67 523.19 545 535.39 ] /Subtype /Widget /Type /Annot >>
+endobj
+201 0 obj
+<< /BBox [ 0 0 79.61 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+202 0 obj
+<< /BBox [ 0 0 207.41 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+203 0 obj
+<< /BBox [ 0 0 212.4 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+204 0 obj
+<< /BBox [ 0 0 453.87 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+205 0 obj
+<< /BBox [ 0 0 98.14 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+206 0 obj
+<< /BBox [ 0 0 183.81 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+207 0 obj
+<< /BBox [ 0 0 211.33 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+208 0 obj
+<< /BBox [ 0 0 429.2 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+209 0 obj
+<< /BBox [ 0 0 413 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+210 0 obj
+<< /BBox [ 0 0 109.61 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+211 0 obj
+<< /BBox [ 0 0 105.74 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+212 0 obj
+<< /BBox [ 0 0 89.61 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+213 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /born 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 72 0 R /Rect [ 86.19 536.39 95.39 545.59 ] /Subtype /Widget /Type /Annot >>
+endobj
+214 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /since 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 72 0 R /Rect [ 200.87 536.39 210.07 545.59 ] /Subtype /Widget /Type /Annot >>
+endobj
+215 0 obj
+<< /BBox [ 0 0 96 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+216 0 obj
+<< /BBox [ 0 0 144 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+217 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /unpaid 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 76 0 R /Rect [ 68.8 266.09 78 275.29 ] /Subtype /Widget /Type /Annot >>
+endobj
+218 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /first 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 77 0 R /Rect [ 228.83 252.69 238.03 261.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+219 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /first 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 77 0 R /Rect [ 183.09 608.29 192.29 617.49 ] /Subtype /Widget /Type /Annot >>
+endobj
+220 0 obj
+<< /AP << /N 276 0 R >> /F 4 /MK << >> /Parent 78 0 R /Rect [ 312.1 250.89 380.1 263.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+221 0 obj
+<< /AP << /N 277 0 R >> /F 4 /MK << >> /Parent 78 0 R /Rect [ 269.11 606.49 349.11 618.69 ] /Subtype /Widget /Type /Annot >>
+endobj
+222 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /present 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 79 0 R /Rect [ 186.4 236.69 195.6 245.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+223 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /dead 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 79 0 R /Rect [ 328.4 236.69 337.6 245.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+224 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /talaq_khula 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 79 0 R /Rect [ 536.4 236.69 545.6 245.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+225 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /present 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 79 0 R /Rect [ 214.9 596.89 224.1 606.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+226 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /dead 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 79 0 R /Rect [ 282.23 596.89 291.43 606.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+227 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /talaq_khula 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 79 0 R /Rect [ 475.44 596.89 484.64 606.09 ] /Subtype /Widget /Type /Annot >>
+endobj
+228 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /born 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 91 0 R /Rect [ 77.19 619.69 86.39 628.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+229 0 obj
+<< /AA << /U << /JS (syncForm\(true\);) /S /JavaScript >> >> /AP << /N << /Off 268 0 R /since 269 0 R >> >> /AS /Off /F 4 /MK << /CA (4) >> /Parent 91 0 R /Rect [ 193.8 619.69 203 628.89 ] /Subtype /Widget /Type /Annot >>
+endobj
+230 0 obj
+<< /BBox [ 0 0 92 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+231 0 obj
+<< /BBox [ 0 0 166.88 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+232 0 obj
+<< /BBox [ 0 0 109.74 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+233 0 obj
+<< /BBox [ 0 0 270 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+234 0 obj
+<< /BBox [ 0 0 342.91 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+235 0 obj
+<< /BBox [ 0 0 469.33 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+236 0 obj
+<< /BBox [ 0 0 156.88 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+237 0 obj
+<< /BBox [ 0 0 178.99 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+238 0 obj
+<< /BBox [ 0 0 354.6 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+239 0 obj
+<< /BBox [ 0 0 235.94 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+240 0 obj
+<< /BBox [ 0 0 206.34 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+241 0 obj
+<< /BBox [ 0 0 119.87 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+242 0 obj
+<< /BBox [ 0 0 322.86 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+243 0 obj
+<< /BBox [ 0 0 384 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+244 0 obj
+<< /BBox [ 0 0 199.87 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+245 0 obj
+<< /BBox [ 0 0 74 14 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 111 /Filter /FlateDecode >>
+stream
+xœMËAA@Ñ«ü%›R­{["lQ¨‘Q®/z!³øo÷Ÿ¨¬òˆèQ”¶ˆ*©N‡JÓŒ8îPYğA%×Ú,EIÕpN¬ÙŞ‡7Kì·ÏÿEOÊ)Ø…Éfğsğº:İ#îSìÆÖ8|²^"¢
+endstream
+endobj
+246 0 obj
+<< /Length 2381 /Filter /FlateDecode >>
+stream
+xœ­Z[oÛÆ~Ï¯à ÎAºÙû¥OÇ•T­-¶
+#€^ÖÒÚbC‘IÅU}±¼.-[:	0=ûí\¾™%Hùÿ|p6…Ÿ	
+Ó{ q˜^Àhú—o\yG…§w	0œ ­’ ˆ%$dnº7‘)_ä	à±úU
+Š›êÕr1
+U«„ûËeşRC$F##%…_XÃt'ãŠ¥ƒ‰]9Hïá4íòCùèKfçQºÎ+éÒeóè~¿‡é_0ıŸ_¤\1~uJ‘Ş±8Å1L@qÖ­=‰¾Û%ÌN.m–EöÁÍŞÃç4[K´Æ ˆWf35•"4f+ÁpP‹nÍ àÌ †± ÅƒíßD‰-Ö™›,à¦°«Çí¿µÒÀJîØ#ç h {š~x“.B]¥ş‰2ç±]ş’ş2Îò¥]Àu”/[Ø·,&	Œbœ&­W6ÓåÊ.¢ÍÆÂWû=Ê› *—ÁmÊ©§ÏˆRÛ
+4’µ
+Fw •¼¯ìkìlîà>Šc(–Q÷i¶‚(³‹«OÀÅh:]ß<"“æ'"•ÕÈV6ûşb<ÃïmL‚AªÚÙ+ „!	RªêA7å;½‡ş-ã(hó†ßM¨ì£ö™>O“¹Ë·€»ôï|M<!yålgÆ3&Aê ®İC”™-¢4IŠ^Ns"jÖãS)@j‚LµeÁ1nrş8@= s[¸_w¢`’"ƒHÉz 1îˆ‡àš…)¢»XØçZH@ã-®K=Ó5½‚³|ººüz1šÎáìLÁíéÅøÛ·ÙÉ—?O¯ÏÇ§“Ù{¸ú\şrv=>½~û¥şvçÌhD„ì»7u¼$vÅ›Ï8x !~ò\Fy¾Û„DˆWÑa"²ÇÃîò!áÁÜEY±Ü#£UNÃáxóøš¡Eóñj7¥•Ş%#@hÄa0A¸pºXdnŸcCÊHÂ(D:­‡eMçNBAh†Tğ8¸P´"Cü6*–p™ífC‘¡„Ô¾¼jª‡TÆ€
+à”FÇEèà`ßPI@ğ0¤[q.º>.|íÀhÄñDu/qp"‘ìÅ“…K»Ì`v²HŸ\«4q›Ù{Hïwó–æˆrÉ}ñŞD;Ã¸Ä~/Jà)ÍùîcqïŞGi¥á8¼•°èÂıÉ[©."r—>ô½x—E÷ÂIwø2ÜeßÍÒA”Ãì„ÌŞ¿¼ãªÉ21Æ9pC+SùVÉÿ[†1B‘¨”HşLVşs‹Á{#Š"f˜ìëĞİ[#Z!áÙâgìÍwgªR`¸|˜ß)Êõó±İ;£Ò CôÏñÕ‘JY€á<ú‘fó7l1‚8gôùÖ¢æ¾ìOïÂÁ“Š(y€G—Eé–6‡G›çnÑ³ÁñÙ iÇ©c°«2Ëb÷`c¸µq´ÙÀìäam³Ed“’¡º4,;İÌÅ¶p(RXºìâ ‘Ò“J7ŒÌ1~öìxúà˜Ö:Âı\ÚMÕÌUó;ç­ç;·Ø¢zŒÑTPØ\U)ÒÂÆ%«ï¦p*ÄF—m‰Cyö,g2‡…g«#Ä¶´?Ü9—@ææ.úá¾¥õpËö6½÷A¶üø—{rqì²ÍX¸ÂFqîzZFó%X?ÑÈßd-a*·zD÷i§O{m­—Z¢ÊÛêxiÅAÇç²2n90ª§TUˆïé¨DŒ	œ×õØ
+¨Á8àÔ%¸go=Å+ª Ci’á¼IX}^]Pqª›ùA	£_/¨8©‹·ú/qp\·FıÉ[MN9U($˜Ç…ÛÒ°t*&C9ÈWb=`Œ8F¬<.1®²vœâNÀ„¼¬ÿÛ„oÏèÖ”í%Eê™¢ç3ñç`& ŸN'“«)|]ß\MN/.¾Áét:šœ—ïLÆœşŸF×£Ë«É·c¦u“ò\Ûİ£€u5×0Hïk
+Läs%sc˜Û$I°Eá’E5µ.Î]æVi²ñ$ùè²<M>ÀØkînöñ1’¢fOÏbş8.Rp»ùºpåQ’ÙzU¬Ûv?¶Ôì
+\šÀjwniã{°¹níwçb˜dî1s¾L¶EôÃmWâˆÜbBKÛÕÖ	_t2AÇù<jÅÖicğäØq 9zR‡ <É¼„7§AÆª1rt+¾NŒòN[qnÂª6ÿäˆ‘0˜{W4í{éÔFàTŒûÀ GA†Ã¦9:¸À8È:Ô˜GÇ™¯k÷‡D%å@
+OVfœ®#ŒClO;qĞ¹JµìÒîv<ŒnnF7¿nÓÉaDFGRsıL¯k(µpyİûİu³¯W	ŒÇğdsX¬ãMy#ãe«‘GåeÂ&d˜|±ë¦;‰H×Td8Ûœ€*Ö¥ÿxË«R¼¯j?¥ì+CEË6(8[qXÁÙCqpÁ`ğÔôŞÂYp"ªŠÓÏ ŠlÅWH•Q œ†g+CÎè´±¯qğwô”áM°Á#õÒ‰!Ch¢.0)5-MHÜ‰Ãh‚˜°À|[n„ºÉ"Âz£š5Dqxn^úŞXYnt¹{Ma+¾D÷ú·V„œ(óBÁqHn%Ãú¢‡9±‡ãˆÜ ªmM}n´â ú‚HÑ%h×<<dÎÏˆÀÎ_¼×•»¿­Ì¶N)²:^â»WŠ	2’ëşš³“¤7ÜxmFZ[r‰¤ä8m¢‰FfA_Í§ã”q*`JöU¦Õ+Ïmî¿¨Ë·jÎ·çEñªY ¼k5)©áÏ{Í£vÍL—Âû¯¡•FÌ á1ßŠÃZ§ˆ½¿Œq¤¨1”ŞßÂà'~¼Æ@wÍ¼¨èù:ûû:†´’eÍfi›FVd÷€•7ªûæ3Q_eÚ~Uã«ìV`ÈÊ<
+É]Öá«¿Öó ûÍl²òë+”ØÂş?·öñ;J³‡í¤QÕ^"ÍV{WEy…¯ş³ˆÿ ùÈuğî_Kÿ5
+endstream
+endobj
+247 0 obj
+<< /F1 278 0 R /F2 279 0 R /F3 280 0 R /F4 281 0 R /F5 282 0 R >>
+endobj
+248 0 obj
+<< /Length 2281 /Filter /FlateDecode >>
+stream
+xœ­ZÛnã8}ï¯(`İdÑ`x'ÕOëtÜ3Şé\Óh /´MÇš±¥¬¤$ëıú)K¢G¶åyèÊ)•‹UÅ:EÀ€øÿ§+€Ë1\|#@(Œç@8â0şÃñ'ì5îùD…·O	0œ ­#%A”Yxh4Qä9A¸@l£JAñ¨Tõ/ã!éßF ­×eON…l JJùWj¯àl4¡sÿãºG6ÆF%vŠ(ï°É¶µñ-\áëíõİ÷áxx—?aüë.ïGWÃà-õêˆ_œ³"#9++ 
+#Í5o~[6«Ô%®é.X’‚’8Xdf:M³™I¦ŞâbÅÂBa³Uæ)³v/Ïi“5¬Öğcğ}ôó'¬lRÄibg`&é«…,lf'ëò	(R§{3úmğ«7ùŞ‹n‰p›©´×Úé+D„w—¢HQ®AqVû,Â¸<:(Ám·_:10ÆT4Ä ¸ØãÆ¯ üp»dàÚ,2x<›¥o6ƒUšØõã9¤óNpDI1%A1ŒD‰a¾õÛñ®í@M2ƒ8ñ5O³¤s˜š|qñ‡}³Ë¥ÍÖX9‹ã<„êÙ¥s$¥å68|ójabm™ÚøÕÎv$ü¶qT"óq?%¦xÉ¬[µóÀeÏlwèA¡Vˆá[‰=Âã6¬+SìÁ8FL» ÆÉg¸G!(ÈH–kğ<ß†_¶İ-,c„0$5×[vmU‡
+›ñ|ÅÂ/,,Lö¿Ï™Ís;sZ0M“Ü&…+VÅ"Î7å*N }ÉÀ)ZW]»gÍ2O!Ÿ\Í+¶/nç	-ší¸‰ÿ4‹29¶Ş|R$JE¯ş¦o›º1«}!Œİ~(
+RjD›®Å~%¸…âà`p•ãÎB#UAÌf.”öø‚¤"©A
+^ •¸Û™æ1FArR–ÑÍ•Ø9#MÍ«ëÒìÔ5b’FUéõ›X‰=71Äq@!›B$©FxSˆ$nÄ~…ˆè&ıèi©š:&5¯
+«÷j%öôjˆâğÔh0ø ëÁ9‹&;LLZ)Z‰§†Ğ*L¦Zì…\(íˆCÔJ„-f-öÛÄ#RC(^Õ	—µØÃ„z£Ñï'B¶¬ı>¼}}ŒG·7ú®‡Ãû‹»ûáÃèjx3†Ûoı{p=øÇ`ü1*“ª°H"%™l~ëU×Ô¸÷pÄ ÚE`…ÅGA%öŒ‚ÇÕÅíL¦KİÂà¢?L5ÕäñŒ<ïQ’t-‰œû™,Ã7BÔÿëA¿	Æˆ•Æ£LÒ,ÁbefqïzM´ô…ok´{c¤¥økVH‰@¸4`pİ¥ç ¦Z#ä±k=/æi¶§S§Hp¬A¸¢^uêzë·ãÃ€7vœkk²ü”¦TĞ U¿tY–í(1²¬0
+ñ®£b.ıB“g?Ì2^¯ÁÅğå£­Œ°ô6hØ¨ÖbÏ||
+÷ÇàŒ¹³µ‚ç|NÒÄÀ<Ùj‚S}âä©ä?–æí$Ê!°hN°¯'ôU[¦Æ?–JqËÁ3ö’ÜÅÖVë†¬y¶çóœ¥Ï©#zGº=«¹[œ×ÃGÓ·ænhõ/—'y€G<¨Ş'y ej”¸©‰[ÍÊµør16KóH3ømñ²4ŸáÕf¥SféôÅèr·ÄÜ>›Ì¸a˜Ì‚)
+3]ØY3ékèi‹WxÇ€»ÌæñÌñìt¾ãx?2Á$şğEƒ•µYgÊÂ%÷×3á­¹r¥èß¶K³®T²¬TQ÷±!.8.X›ıÀßáa<¸¾k»£.ÂDşÜûÊâ±Guo‚y#în­™ÔánŞzÂ/š*!²/ pÂ7ia¿@ÈéÌ$KÍìóVÂê%/`âÃÔæ…Ëßu©â#Ø,7»œfÍ/všÙÂdk¸óEaÜ_ÌIÉÇ"Òœz§vÁ-c]w ¿ÜßŞ^w7¾LGÕ1Ï¨BÒİÔ¿õj|™’A«ÕP)7eŠÖ nÄÇ¥\¶g“.8&qV,öœ‘«n³8îä<s‡dGŞJø³›‰(<»k±9dŠXI¤!-®Åˆ´'FÃS-öNÃ²œ.í*Y®ÁÌçq¶*ÏåÑ—C-ª"D°Àˆ
+©N-öƒŒƒîöjïn+D]ïÎ0kîİf
+4
+ÆšoÁµÎ¾k¢p\‰êfÊJÙÖoÇC¢”ol„À>ÃãÙ ÕNofŞ‡Zå)¢yÛê(i]
+ÁÔ×BğxfVéKRìéá™Öˆ)BC7¸M9ÁnS4.·t÷Ìlaâ¥ï®ŞñtQ6VûBØN•’@•,3|µûA•ª\hÉ.»É¬Ôe© R–ióË¼§š¡¨´ ¸I‹…£uúlâ¬má¯QF¾Å†g³†¸8©Ù¤‚5²g_ÏáÚdqa–¦xÙAS¼Vòw‹|ûñã9ŒqˆsW»æq–eëœP4sÆ6gÒ®ÑÁa¸¨Ä³÷¸ÚÀºs…PD0å@yı=Óxë·£¿'`º2Bó-İ.8›o6Ü²¾Àßş¶Cm®«5P^Ï{½X=·Ü¡ïúÜ@ß‹]úŒâPß‹ú\¶ôØ¥ïF„¾Cı«Uéjdçİ¡ Ê‚/¾ù0¼ğUÔfğÏ­‹ƒ’]‘éfaÎ3òã¸<Åªi¼¹êğÌ¬™uaTÿ5`Ú`Få¸`¿¦Ùtsë{Qß§“ÂÄn$àùsB7ûëDÈİAêOéğã›ıÌ¾7Ÿ?©Âbİ|ÆÑú”ÁÆğ”¥éjÏ-‰¤HD.±¬Çõ7b¿ùZØ%óê&“sÜˆËæäs›ìù¼Ô]ÃQ×8o¾Ksó?·!(óì%¦0ÿÊyş¥ÙÓû–é=ÓIDåí7Ü™'zÁsğéÿ$,ò
+endstream
+endobj
+249 0 obj
+<< /Length 2059 /Filter /FlateDecode >>
+stream
+xœ­Z]SÛJ}Ï¯èª­ºK¶²Ã|Ï(OkÀ¹ñ&
+´Iİ*^{Œµ±%®$Â²¿şÖŒ,i„±±DBª…Ô:Óİ§§ç0ÿs¶8‰áøB!^ áˆCüÆñ;ìï¸úıEß¥À4p‚´”A"PBBnáº½EşFN .ÛÜJAñ¨ºÕ¿ŒC„¤A‚v^—ß¹[È¢  ”¥†xGß'ñt|}=¾şøâÿBü÷ w)@#¿€i¾Ç#!IÍõ3¿–6··OPÚ¢LOP.M	åÒ‚¹Í~ZXdù–¦€[kS˜?¬VO°HV+;“Î¡HîR;÷üÒÂmÌí]ekHRÈr¸ÏmaÓ™ıçsØ½"!4â5b‚»R¼ëjjÖ6Œg“M‚ˆğù$X"¢•ƒÀ‘pÏ­F¸5W½3Ëî¢¸>¾Ø‚1†dƒàâ-\ ¸@¸†0šÏs[¯Ä‚¤"©Aq‚H€£6W!!ÚÇERÁµ99Ñˆ6ÁKîRS>ä¯å‘:*+"ªÊß$±6&1ÄqfÊW 0ó¥D¸ë—¸5û£pÔÀ¼%3}5BW}¨1Š‚¨ÖæÀ¨†(§F‹ÁØpŠƒŒHËÎ~ÔZ…mÌİÔŠ‡djÌaÈ%Gr5¤¤U1WIlÌaIìàèA)qİ'5s@0(H®Z~~›¼À‚İ–¿ B×û·ÎgŞÆW“O“ÓQ<¹˜ÂÉ0:¯/¯Æ×“³ñ4†‹OÃ¿Gç£¿â×¾©çX4í SÄ¸
+®õ_¸¤ m¡ÀùÚÿH#A¹IuÅAm,‚ÆÁL0x>Çà"AqÛLnÈÍû—1TSRˆDL‚$QU½¢şß€ù-"ˆy_!‚¤ ·YÂh¹6ódp·&J#‰%¾@º$bHÿ’åQ¬»ïn&DS/Š$Y8vä+™WH+AAY7qN£g×úçŸ3¶ñ}²&/†ï“®¨pÔn'àæ(¹y/“’Ü‹$/J˜&?Ìrñ6ùĞa­AâÍ$ñ–ŒÇ6İEws”t¡íM•"Øq‹zcüùµÍ@àÚG€m+<½!"İ°§ ^ÚMì}Õ­mÉÂºµWçr_6(áHG‘ó+«zyK:G¸r€ôupæÖÌ÷bÑQÆä/ÁÂ0A¼rÖÁÂnŞ'»äg–Ïì!»-MâNu_>ÿçëhL®âœıš¹ŒjÌ`’ÂÌÖ.sÛ‚ÍÊü	Y_–+ó~Ú<Y$vólö°¶iY@¶€ÂŞ›Ü”I–‚É-˜²4³¥ÃcR.ıqÕ— ¯”áu((ˆ—§.¸Ìm‘ÌmZ:0Û³@Ï$J¼óE£u’ï6P5n8¬XW.ˆó‡Ÿ©õşe/İ¹Á,+Ì
+E{w)GwÁ9®ºã ü×ñèü²¦quøsÛmÌÁ%´#)æ­ùòÎ¤ŸpªMç‰Í¢Uµè‘WOéöÍÑ4+íÇ¦’³˜Û<3óÏJÖE	·¾NmQ¶¢ÊÔ—°YÁhmmîª¾¹rmg¹-MşWI±,ûA! çÉkÑ¢ÿ6Ù›)DŞFûff%»â8ÃéÅùå×q<>ƒïŸÇS?$Ÿ\MÎÆ¿_]\œÃéh:½ˆaÇãé™ÿåtòeôNÇWãó‹é0™Âåøêúbº{¤öïeM.±D‚ÓöR“ÏCe3A«íÜT3™IÓ¬ôÉJçU<Ö™Íí:KŸœ voó"K?À¤ÖØÌı}–¤•¼¶ÈV«ì1Iï ÌÀşÏÎJßç I‹2÷]ÌËúi[ğ;¼5qIZèU­ùîw¼z¤¥´1¹h´Æpk‘<´…±g€²ÖOpk—fµ SÀwóÃÚÜåv³_›2ùioŞÜ’{B6\\«w½†ñxx0jÌ1 ¸‹ç€ƒEÂiw2z·"È,iA„jà¬£´4æ…ƒPßÎM¤1‡áÆ²aš-Ğ%ÔQç¤ÑŸ_I¬Âˆ¹Å`VUãÆ­90¯!¶CT‚´ˆ¨?öo$ .pkYD[‚ıŠ¯¬újĞõ»û«Á,[=¬Sø6™ <šÂ}1ØñÁ`÷Ç‚7McLE-»&[ï#§u\õPD™a»hÌa:JÅÁ:J€Á±î\ ¤èÙ-E”Iö‹ÆÜ­ˆ2®Ã~Ñ˜Ã³è…~qˆ"Ê˜¬{ƒObmLbˆ£‡"Ê˜hzƒÄ­9¬7Ğ` ›¼‘¡¯>Ü ¤Í]Xks`XC‡s£Åà+l8ª­ı¸;ZgcîæxÈ¦Æ„œj|…ìÃê…«&‰9,‰=¸A5©…ãFc,$PE[‚¶û]n­ĞÍ¬Ü;¡º	ä<ßÚ¸Èj›UˆïÛfô&uÄÍQ»CîÒuëøÉÃ­BêğkRcšµ¨Ğ;ÉÕÏ'ÕğØñ˜¥~`Èf3S8&[xñ´:F¹SÊŞ%+^MÅTğæ“V›·ğ¡G·j.Z>¿~NR1FÜc$ÜósØ(Ùqöz_ãH¹…·|ö‡cpq`ÁŸ‰lMÚŸ„d9Pº‘}«)»1†&ÄÕcÊ¦T5_nÍ …¬>:Ñi_1»]yóÇ@CjşïdF”{	¥¦4ÿ*Œ¹ÿ²ün›2Û2RØ4ADQŞ}Ã¥¹³ğ7`Ç<pïşOHn
+endstream
+endobj
+250 0 obj
+<< /Length 1410 /Filter /FlateDecode >>
+stream
+xœ¥XKsÛ6¾ûWìL‰;	Œ7Éœ*;j£i"g,¦îÁX‚DÖ|hÊ®úë; ŸŠm=è‹GK‹oß~»$ˆû;O.C¸ø ¡.pÄ!ü
+ãğ»7œQDáé,æ'È÷O‚ xBB¡aÖ­D[È	ÀbõR
+ª¥î0’î4‚İ9®XÙ%¤†()x2°Gú¦ğş¯Éd‚Î!üÂ_íÚÁ¨Oå{Üş®»É®F³1„_Æ0ü9úá5\áêzúùÇU8ş“)ÜŒ.oG_z‡¶Ñ¬sê¡À:MI¸Ï{Ï’&j
+ò-Ì 1¹¥ 6³Ê»÷—z™ÊHƒÊ²|“Íuª³ò%Lã}€µ.ÒØ˜8Ï İ˜î5”êAg°,òÔmœªÿT¡J˜˜DEó“ÂDjñnb•
+¦ªTp£îŸTwç?§øè\tĞoUo·§…p_ÄÁÂYOq™ic´±ÿtó<36*å›dëB;³Œtjtò¨Ä™Û™/—ñ\ß?c‚ ¿"B€ü}<<ô3LÇ|¬3ÿ'gáNl‘zÔPjSÆËX/lé¶mnoT¹ a]äëÜèE£H0ñ*Ó6U±e^¤Mšò'{«Ú’$oJáıĞ·¥ ïlR‡åE¾YEÉô¿*«p4¨ûüQ»˜LJˆÌótè²"Çr“$[›)5ŸçÅBÙD=ÅeäözµITç™y!ö#eÅ“ Úá½v„ú©4ú•ñéÅòGD8 „"A}F¼–;³U€£2‰w~V¥†ı(X€éû	Œ;ót6OÂïPÌâU¦ÊM¡?Y9‰‹á1æÜË&eÜbmÌÓ±r‚wÁº”Y>ÍJ•®÷ãá^€°Ë]‡Gpñ£[ç iOÅ'¿¡qyş®³¦M}ûşulÛÔ(t=,œ|Ãõïî÷h:½ş1½OÃæ™ëq¯w2w
+o¸Ã…„¤İ£Ós (HÜƒı=Qsİv-¸Ò…Nól{€+ƒÄt‡Ò9’Hu©-K!:Pj’ğ=$:H­ÙƒDpu·àxá6Cº0yfÛ¹•Ç8[UÀl½¥‡€bŠp Â£ˆtnÍa¹’É¶ü/®÷#ğ’!|äõ4æ0<@´A0Z,
+mÌ~C^ }{¶@[™ô'Öv!#-ÍìÆì?®!º©×ïXVu¹Hú~*19ÌuQn¨¥‹úÇ;·êAëîŞº„T?ê»s§i—vLXyÂEÏxgkÌñˆ±ì¿~ü“.t;œÕYU=ó¦z,B7¬âGíVÄİx»¡´š^Sı‚(Ï®tºæ´—[Íå¾_ñ:†qgNQFğ.«(:µÀˆùEá5¥Ê9îÌA…Â=¯+ÕÛI8ÏfãÙ§¡„ „!i_dvıê†ÅÕL»mFØØÔ$°£ë½Ö­†UCo¾)Ú©÷mW.y'd¸+ïº²úzˆ8wk7ºBÜ™¹ÓGqPacNb{¬R½ƒM„À]>Jb	•Ær.ûŠÙš¯h,£Àkû¦İÑ˜ÃS~º Pû=ƒSÒ€»ÄÆx‰}§ Å­ HÜ™Ã€à®PéÛJ£ïê”ÒÀ²éü.«90«}Ç—F‡Ál8¼§¶4XÀú%Úš¯—ó‚~1µæ0äîºùI¥Á¤_‘¹ºÄÖv‰;8N(&e£¶4Z³÷f(í§Ê%Øö´ïEŒcõWK‹!«>„¡Â½¬¢L•ê7£ÔúåÅêù'¯
+5@íßóM}‚ˆGùî	ßÕJÃ/À/xÏœı–¡
+¿
+endstream
+endobj
+251 0 obj
+<< /Length 1067 /Filter /FlateDecode >>
+stream
+xœ¥˜Moã6†ïùsÚ"eøMª7F¢-îZ¢AÒ	ì­h
+İöÒ¿_v,*›Ú±|1<6Íyø¾#rh0òúûw€ûw+„BzÂ‡´›npÖ7iø÷æ`AZ7J‚ (.áÇ§‘‡œ‚ÇÓû%"J*=KôãÏü59ÀMj¨%TICúŸ\Ü˜<¸{ÓAp±OF“ÌgHAú%O÷’„•$ÉSi„Fª!Sšm°¿&gÖÖ;×™±µw­ßÑn6n\/ÌFE¼©²µ6$·r­IöyI™—!zb^‰A6dšq4ƒ…/f0é·jÆÊO"ŠO„3D(©jò¿Ãx
+ÿ®,{Ã|Ò¹˜ÒIÆ	Â„Ô‚^@™D‚`RU©w:Û©7i¡Ô
+ƒäÍ4óàb<­1ÆH7$3_ÂE×İ?­0UH]…—dh•ßt]°çD 1¦@Ò9]È@†°$®H>,÷TèÚÓpr1EŒJzfè1\bè,}<k¨@ŠÑ ‹¹ /_.4TÈ9ƒ|ÍÀ É[â3‚Ä)
+AAğj«7¶6@ê-Äd’ì˜"øÜûÔ—·&$gã-”§ûÑvß~…ŞD¸·v|]0Z„`Æµíàş	†]Ú™´~ŒvL`Æ]êı.¿‚mÖm,<ö&Eol@WqJÁël¸-‹¿®³ Gëàı ½y°eíĞn¬	›'pãÊ‡ÁvY7kÚş*\‰âSoÃÇÙ³)Ûş)ºv¯Nç’ó#ÊlÁ®|°·PŸ©×`p]iRÉGãKş]›lÛà|€ä‹F£ûjzøöéP(ß>ÿd¿CÊÊÛ¹İE®€Î½F¸¤ÇÇ‡‹)¬a•û±gĞHŸj—2¯ˆL*kNn°¯°ªêy4LÛúakFW
+ü43ÃÂBià|Í¯Á¦ú2ì}­_ÌÎ4’…òûKX±ë=;ÁŸ‚W8®4n=š”¿špÏ”næ’ÇñÃiÂğ^ÅÄ+®Î¤3LcDÍ“±Oá"q˜>+Nñò4¥É¬Ó3…á2…fp(ÄôL¡c¸L¡z)M{Uô>œ)¥a‚“s¤76‘f»È¾8ÃA$0>GxcC¸ ş_İ¼WŠ	â„P`t^3ôºš¡k†ÎÕ¡•:ÓÕ¹)?’h¾1äï¹@]ß‰K˜F¸QhÃ'æöMçÇÜÎ˜ÁÚp—»×å~Æ¯Ê­ñ£I¥­É×°-‡{7¿œNÔ‡JØ¤Á dEÍ@íÏÕ‘—cµ–67®œI D¿eü‡=ÇÏ§õûKŠ~‰sùÎVœËkªzüc˜ƒ›ÿ q½9
+endstream
+endobj
+252 0 obj
+<< /BBox [ 0 0 184.89 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+253 0 obj
+<< /BBox [ 0 0 196.47 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+254 0 obj
+<< /BBox [ 0 0 265.89 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+255 0 obj
+<< /BBox [ 0 0 199.11 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+256 0 obj
+<< /BBox [ 0 0 467.73 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+257 0 obj
+<< /BBox [ 0 0 212.93 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+258 0 obj
+<< /BBox [ 0 0 192.44 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+259 0 obj
+<< /BBox [ 0 0 223.07 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+260 0 obj
+<< /BBox [ 0 0 217.28 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+261 0 obj
+<< /BBox [ 0 0 268.27 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+262 0 obj
+<< /BBox [ 0 0 191.48 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+263 0 obj
+<< /BBox [ 0 0 207.67 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+264 0 obj
+<< /BBox [ 0 0 194.27 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+265 0 obj
+<< /BBox [ 0 0 115.75 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+266 0 obj
+<< /BBox [ 0 0 128 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+267 0 obj
+<< /BBox [ 0 0 106 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+268 0 obj
+<< /BBox [ 0 0 9.2 9.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 11 /Filter /FlateDecode >>
+stream
+xœ+T ç ã
+endstream
+endobj
+269 0 obj
+<< /BBox [ 0 0 9.2 9.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 65 /Filter /FlateDecode >>
+stream
+xœÂ±€0EÁUŞ_Øqbo€DlBAÅúHèîaù+&ï¼Æ…©‚P7M5p¹1Iõ Õ““ı±mA
+endstream
+endobj
+270 0 obj
+<< /BBox [ 0 0 105.66 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+271 0 obj
+<< /BBox [ 0 0 156.63 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+272 0 obj
+<< /BBox [ 0 0 457.53 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+273 0 obj
+<< /BBox [ 0 0 315.42 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+274 0 obj
+<< /BBox [ 0 0 163.68 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+275 0 obj
+<< /BBox [ 0 0 159.94 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+276 0 obj
+<< /BBox [ 0 0 68 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+277 0 obj
+<< /BBox [ 0 0 80 12.2 ] /FormType 1 /Resources << /Font << /HeBo 18 0 R /Helv 19 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 0 /Filter /FlateDecode >>
+stream
+
+endstream
+endobj
+278 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+279 0 obj
+<< /BaseFont /Times-BoldItalic /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+280 0 obj
+<< /BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+281 0 obj
+<< /BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+282 0 obj
+<< /BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+endobj
+xref
+0 283
+0000000000 65535 f 
+0000000015 00000 n 
+0000000135 00000 n 
+0000000441 00000 n 
+0000001633 00000 n 
+0000001708 00000 n 
+0000001801 00000 n 
+0000002242 00000 n 
+0000002688 00000 n 
+0000003126 00000 n 
+0000003569 00000 n 
+0000004006 00000 n 
+0000004446 00000 n 
+0000004891 00000 n 
+0000005330 00000 n 
+0000005774 00000 n 
+0000006248 00000 n 
+0000006727 00000 n 
+0000006909 00000 n 
+0000007012 00000 n 
+0000007110 00000 n 
+0000007184 00000 n 
+0000007391 00000 n 
+0000007598 00000 n 
+0000007753 00000 n 
+0000007965 00000 n 
+0000008121 00000 n 
+0000008329 00000 n 
+0000008551 00000 n 
+0000008719 00000 n 
+0000008861 00000 n 
+0000009030 00000 n 
+0000009170 00000 n 
+0000009325 00000 n 
+0000009482 00000 n 
+0000009703 00000 n 
+0000009853 00000 n 
+0000010092 00000 n 
+0000010251 00000 n 
+0000010419 00000 n 
+0000010581 00000 n 
+0000010723 00000 n 
+0000010933 00000 n 
+0000011157 00000 n 
+0000011359 00000 n 
+0000011594 00000 n 
+0000011811 00000 n 
+0000012020 00000 n 
+0000012242 00000 n 
+0000012447 00000 n 
+0000012651 00000 n 
+0000012857 00000 n 
+0000013074 00000 n 
+0000013282 00000 n 
+0000013503 00000 n 
+0000013699 00000 n 
+0000013906 00000 n 
+0000014124 00000 n 
+0000014333 00000 n 
+0000014555 00000 n 
+0000014751 00000 n 
+0000014954 00000 n 
+0000015180 00000 n 
+0000015386 00000 n 
+0000015603 00000 n 
+0000015811 00000 n 
+0000016032 00000 n 
+0000016228 00000 n 
+0000016435 00000 n 
+0000016653 00000 n 
+0000016862 00000 n 
+0000017084 00000 n 
+0000017280 00000 n 
+0000017426 00000 n 
+0000017663 00000 n 
+0000017860 00000 n 
+0000018059 00000 n 
+0000018197 00000 n 
+0000018355 00000 n 
+0000018522 00000 n 
+0000018715 00000 n 
+0000018946 00000 n 
+0000019152 00000 n 
+0000019369 00000 n 
+0000019577 00000 n 
+0000019798 00000 n 
+0000019994 00000 n 
+0000020201 00000 n 
+0000020419 00000 n 
+0000020628 00000 n 
+0000020850 00000 n 
+0000021046 00000 n 
+0000021197 00000 n 
+0000021439 00000 n 
+0000021636 00000 n 
+0000021835 00000 n 
+0000022075 00000 n 
+0000022292 00000 n 
+0000022501 00000 n 
+0000022723 00000 n 
+0000022927 00000 n 
+0000023134 00000 n 
+0000023352 00000 n 
+0000023561 00000 n 
+0000023783 00000 n 
+0000023980 00000 n 
+0000024188 00000 n 
+0000024407 00000 n 
+0000024617 00000 n 
+0000024840 00000 n 
+0000025037 00000 n 
+0000025241 00000 n 
+0000025439 00000 n 
+0000025657 00000 n 
+0000025873 00000 n 
+0000026109 00000 n 
+0000026320 00000 n 
+0000026525 00000 n 
+0000026744 00000 n 
+0000026945 00000 n 
+0000027161 00000 n 
+0000027388 00000 n 
+0000027606 00000 n 
+0000027837 00000 n 
+0000028034 00000 n 
+0000028251 00000 n 
+0000028479 00000 n 
+0000028698 00000 n 
+0000028930 00000 n 
+0000029127 00000 n 
+0000029340 00000 n 
+0000029543 00000 n 
+0000029790 00000 n 
+0000030016 00000 n 
+0000030247 00000 n 
+0000030452 00000 n 
+0000030657 00000 n 
+0000030877 00000 n 
+0000031095 00000 n 
+0000031297 00000 n 
+0000031503 00000 n 
+0000031934 00000 n 
+0000033481 00000 n 
+0000034055 00000 n 
+0000034594 00000 n 
+0000035141 00000 n 
+0000035511 00000 n 
+0000035871 00000 n 
+0000036090 00000 n 
+0000036309 00000 n 
+0000036528 00000 n 
+0000036747 00000 n 
+0000036966 00000 n 
+0000037185 00000 n 
+0000037404 00000 n 
+0000037623 00000 n 
+0000037842 00000 n 
+0000038061 00000 n 
+0000038200 00000 n 
+0000038338 00000 n 
+0000038477 00000 n 
+0000038616 00000 n 
+0000038835 00000 n 
+0000038973 00000 n 
+0000039112 00000 n 
+0000039250 00000 n 
+0000039389 00000 n 
+0000039607 00000 n 
+0000039823 00000 n 
+0000039961 00000 n 
+0000040099 00000 n 
+0000040237 00000 n 
+0000040375 00000 n 
+0000040513 00000 n 
+0000040652 00000 n 
+0000040791 00000 n 
+0000040929 00000 n 
+0000041068 00000 n 
+0000041206 00000 n 
+0000041345 00000 n 
+0000041484 00000 n 
+0000041621 00000 n 
+0000041758 00000 n 
+0000041894 00000 n 
+0000042030 00000 n 
+0000042169 00000 n 
+0000042311 00000 n 
+0000042453 00000 n 
+0000042672 00000 n 
+0000042918 00000 n 
+0000043163 00000 n 
+0000043409 00000 n 
+0000043624 00000 n 
+0000043766 00000 n 
+0000043905 00000 n 
+0000044044 00000 n 
+0000044182 00000 n 
+0000044321 00000 n 
+0000044460 00000 n 
+0000044599 00000 n 
+0000044738 00000 n 
+0000044877 00000 n 
+0000045095 00000 n 
+0000045314 00000 n 
+0000045532 00000 n 
+0000045751 00000 n 
+0000045969 00000 n 
+0000046188 00000 n 
+0000046407 00000 n 
+0000046625 00000 n 
+0000046841 00000 n 
+0000047060 00000 n 
+0000047279 00000 n 
+0000047497 00000 n 
+0000047737 00000 n 
+0000047980 00000 n 
+0000048195 00000 n 
+0000048411 00000 n 
+0000048649 00000 n 
+0000048892 00000 n 
+0000049135 00000 n 
+0000049275 00000 n 
+0000049417 00000 n 
+0000049660 00000 n 
+0000049900 00000 n 
+0000050147 00000 n 
+0000050390 00000 n 
+0000050632 00000 n 
+0000050881 00000 n 
+0000051121 00000 n 
+0000051360 00000 n 
+0000051575 00000 n 
+0000051794 00000 n 
+0000052013 00000 n 
+0000052229 00000 n 
+0000052448 00000 n 
+0000052667 00000 n 
+0000052886 00000 n 
+0000053105 00000 n 
+0000053323 00000 n 
+0000053542 00000 n 
+0000053761 00000 n 
+0000053980 00000 n 
+0000054199 00000 n 
+0000054415 00000 n 
+0000054634 00000 n 
+0000054960 00000 n 
+0000057416 00000 n 
+0000057499 00000 n 
+0000059855 00000 n 
+0000061989 00000 n 
+0000063474 00000 n 
+0000064616 00000 n 
+0000064835 00000 n 
+0000065054 00000 n 
+0000065273 00000 n 
+0000065492 00000 n 
+0000065711 00000 n 
+0000065930 00000 n 
+0000066149 00000 n 
+0000066368 00000 n 
+0000066587 00000 n 
+0000066806 00000 n 
+0000067025 00000 n 
+0000067244 00000 n 
+0000067463 00000 n 
+0000067682 00000 n 
+0000067898 00000 n 
+0000068114 00000 n 
+0000068341 00000 n 
+0000068622 00000 n 
+0000068841 00000 n 
+0000069060 00000 n 
+0000069279 00000 n 
+0000069498 00000 n 
+0000069717 00000 n 
+0000069936 00000 n 
+0000070151 00000 n 
+0000070366 00000 n 
+0000070475 00000 n 
+0000070591 00000 n 
+0000070702 00000 n 
+0000070812 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 283 /ID [<03bb327c88518cbf68d367477edd15af><e5935aa3450f253111a994ddc727c9ec>] >>
+startxref
+70924
+%%EOF
